@@ -1,0 +1,17 @@
+C:\Users\LuisC\Desktop\amqp_tester\amqp_0\bin\Debug\net7.0\amqp_0.exe
+C:\Users\LuisC\Desktop\amqp_tester\amqp_0\bin\Debug\net7.0\amqp_0.deps.json
+C:\Users\LuisC\Desktop\amqp_tester\amqp_0\bin\Debug\net7.0\amqp_0.runtimeconfig.json
+C:\Users\LuisC\Desktop\amqp_tester\amqp_0\bin\Debug\net7.0\amqp_0.dll
+C:\Users\LuisC\Desktop\amqp_tester\amqp_0\bin\Debug\net7.0\amqp_0.pdb
+C:\Users\LuisC\Desktop\amqp_tester\amqp_0\bin\Debug\net7.0\RabbitMQ.Client.dll
+C:\Users\LuisC\Desktop\amqp_tester\amqp_0\obj\Debug\net7.0\amqp_0.csproj.AssemblyReference.cache
+C:\Users\LuisC\Desktop\amqp_tester\amqp_0\obj\Debug\net7.0\amqp_0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LuisC\Desktop\amqp_tester\amqp_0\obj\Debug\net7.0\amqp_0.AssemblyInfoInputs.cache
+C:\Users\LuisC\Desktop\amqp_tester\amqp_0\obj\Debug\net7.0\amqp_0.AssemblyInfo.cs
+C:\Users\LuisC\Desktop\amqp_tester\amqp_0\obj\Debug\net7.0\amqp_0.csproj.CoreCompileInputs.cache
+C:\Users\LuisC\Desktop\amqp_tester\amqp_0\obj\Debug\net7.0\amqp_0.csproj.CopyComplete
+C:\Users\LuisC\Desktop\amqp_tester\amqp_0\obj\Debug\net7.0\amqp_0.dll
+C:\Users\LuisC\Desktop\amqp_tester\amqp_0\obj\Debug\net7.0\refint\amqp_0.dll
+C:\Users\LuisC\Desktop\amqp_tester\amqp_0\obj\Debug\net7.0\amqp_0.pdb
+C:\Users\LuisC\Desktop\amqp_tester\amqp_0\obj\Debug\net7.0\amqp_0.genruntimeconfig.cache
+C:\Users\LuisC\Desktop\amqp_tester\amqp_0\obj\Debug\net7.0\ref\amqp_0.dll

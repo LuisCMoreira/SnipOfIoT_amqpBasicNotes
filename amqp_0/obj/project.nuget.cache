@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "0YuznV9aNWIiTEHObS0iiplL+vHroHu8Fzt7cSmgxituCIk0RSgXSE7s59cTqTiV/aLnynJVihfJopizLp+lmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\LuisC\\Desktop\\amqp_tester\\amqp_0\\amqp_0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\LuisC\\.nuget\\packages\\rabbitmq\\3.6.2\\rabbitmq.3.6.2.nupkg.sha512",
+    "C:\\Users\\LuisC\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\LuisC\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\LuisC\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
